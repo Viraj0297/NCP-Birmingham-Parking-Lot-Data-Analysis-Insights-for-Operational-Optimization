@@ -1,0 +1,2 @@
+# NCP-Birmingham-Parking-Lot-Data-Analysis-Insights-for-Operational-Optimization
+The NCP Birmingham parking lot serves as a vital component of Birmingham's bustling urban landscape, playing a crucial role in the city's transportation infrastructure. This analysis investigates the factors influencing parking occupancy, aiming to provide actionable insights for enhanced management and operational efficiency.
